@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP HC-05
+D Bluetooth USART Module Master
+K Bluetooth, USART
+$ENDCMP
+#
+$CMP HC-06
+D Bluetooth USART Module Master
+K Bluetooth, USART
+$ENDCMP
+#
+#End Doc Library

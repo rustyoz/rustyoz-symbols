@@ -1,0 +1,51 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP B130LAW
+D Diode schottky
+K Diode
+F http://www.diodes.com/_files/datasheets/ds30308.pdf
+$ENDCMP
+#
+$CMP DMP2305U-7
+D Transistor P-MOSFET (general)
+K pmos p-mos p-mosfet transistor
+F http://www.diodes.com/_files/datasheets/ds31737.pdf
+$ENDCMP
+#
+$CMP LMH6559
+D Line Buffer
+K Buffer
+$ENDCMP
+#
+$CMP MAX14870
+D Full-Bridge DC Motor Driver
+K Motor Driver
+F https://datasheets.maximintegrated.com/en/ds/MAX14870-MAX14872.pdf
+$ENDCMP
+#
+$CMP SNR2512-2R2M
+D Inductor
+K Fixed Inductors 2.2uH 20% SMD 2512
+F http://www.mouser.com/ds/2/54/bourns_SRN2512-347415.pdf
+$ENDCMP
+#
+$CMP STM32F415RGTx
+D Core: ARM Cortex-M4 Package: LQFP64 Flash: 1024KB Ram: 128KB Frequency: 168MHz Voltage: 1.8..3.6V IO-pins: 51
+K ARM Cortex-M4 STM32F4 STM32F405/415
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00035129.pdf
+$ENDCMP
+#
+$CMP TLE4946-2K
+D Latching Hall Effect Sensor
+K Hall
+$ENDCMP
+#
+$CMP USBLC6-2SC6
+D USB ESD protection
+$ENDCMP
+#
+$CMP VBAT
+K POWER, PWR
+$ENDCMP
+#
+#End Doc Library
